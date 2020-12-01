@@ -16,7 +16,7 @@ const EditarProducto = () => {
   })
 
     //producto a editar
-  const productoeditar =  useSelector(state=>state.productos.productoeditar);
+ const productoeditar =  useSelector(state=>state.productos.productoeditar);
 
   //llenar el state automaticamente
   useEffect(() => {
@@ -32,7 +32,7 @@ const EditarProducto = () => {
 
  }
 
-   const {nombre,precio,id} = producto;
+   const { nombre,precio,id } = producto;
    
    const submitEditarProducto =e =>{
        e.preventDefault();
