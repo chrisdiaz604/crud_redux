@@ -1,0 +1,39 @@
+{
+  "productos": [
+    {
+      "nombre": "molletes",
+      "precio": "8500",
+      "id": 5
+    },
+    {
+      "nombre": "enchilada",
+      "precio": 500,
+      "id": 6
+    },
+    {
+      "nombre": "camarones",
+      "precio": 1000,
+      "id": 7
+    },
+    {
+      "nombre": "sopa de poro",
+      "precio": 200,
+      "id": 8
+    },
+    {
+      "nombre": "funky",
+      "precio": 200,
+      "id": 9
+    },
+    {
+      "nombre": "chocoflan",
+      "precio": 10,
+      "id": 15
+    },
+    {
+      "nombre": "carlosquinto",
+      "precio": 300,
+      "id": 16
+    }
+  ]
+}
